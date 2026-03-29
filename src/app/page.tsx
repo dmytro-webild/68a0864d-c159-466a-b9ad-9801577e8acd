@@ -66,7 +66,7 @@ export default function LandingPage() {
           href: "#reserve",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/served-table-restaurant_93675-129573.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/served-table-restaurant_93675-129573.jpg?_wi=1"
       imageAlt="2K Restaurant interior atmosphere"
       mediaAnimation="slide-up"
       avatars={[
@@ -136,7 +136,7 @@ export default function LandingPage() {
           title: "Closing",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/midsection-waiter-serving-two-dishes-wooden-table_181624-54414.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/midsection-waiter-serving-two-dishes-wooden-table_181624-54414.jpg?_wi=1"
       imageAlt="2K Restaurant authentic cooking"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
@@ -229,7 +229,7 @@ export default function LandingPage() {
           quote: "Consistently great Ugandan dishes. Highly recommended.",
           name: "Peter",
           role: "Foodie",
-          imageSrc: "http://img.b2bpic.net/free-photo/midsection-waiter-serving-two-dishes-wooden-table_181624-54414.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/midsection-waiter-serving-two-dishes-wooden-table_181624-54414.jpg?_wi=2",
         },
       ]}
       title="What Our Guests Say"
@@ -274,13 +274,13 @@ export default function LandingPage() {
         rows: 4,
       }}
       buttonText="Reserve Your Table"
-      imageSrc="http://img.b2bpic.net/free-photo/midsection-waiter-serving-two-dishes-wooden-table_181624-54414.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/midsection-waiter-serving-two-dishes-wooden-table_181624-54414.jpg?_wi=3"
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/served-table-restaurant_93675-129573.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/served-table-restaurant_93675-129573.jpg?_wi=2"
       columns={[
         {
           title: "Contact",
